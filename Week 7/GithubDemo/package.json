@@ -1,5 +1,5 @@
 {
-  "name": "CSC2200_GITHUB_DEMO",
+  "name": "${PROJECT_NAME}",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
