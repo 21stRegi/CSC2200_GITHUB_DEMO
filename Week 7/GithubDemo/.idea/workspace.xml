@@ -4,34 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b08069a6-1810-4d6b-af29-b10fdf50e66d" name="Changes" comment="" />
+    <list default="true" id="a29510d0-dad7-4b56-bb4d-ec8b00e6ad38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2nRJRimg27ufzCz0E3zWVR6My5Z" />
+  <component name="ProjectId" id="2nIv5FvEqkOlkWElxFmvfun3tnc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.scriptExample.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -40,11 +31,6 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;HTML&quot;
-    ]
   }
 }</component>
   <component name="SharedIndexes">
@@ -57,14 +43,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b08069a6-1810-4d6b-af29-b10fdf50e66d" name="Changes" comment="" />
-      <created>1728929949302</created>
+      <changelist id="a29510d0-dad7-4b56-bb4d-ec8b00e6ad38" name="Changes" comment="" />
+      <created>1728673220083</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728929949302</updated>
-      <workItem from="1728929950511" duration="3693000" />
-      <workItem from="1729102806911" duration="245000" />
-      <workItem from="1729111523342" duration="15000" />
+      <updated>1728673220083</updated>
+      <workItem from="1728673221131" duration="1426000" />
+      <workItem from="1728958273611" duration="1533000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+  function doStuff() {
+    // let x = "99";
+    // x = parseInt(x) + 1;
+    // console.log(`x=${x}`);
+    // console.log(typeof x);
+    let x;
+    x = "Happy"
+    x += ' and sad' //String
+    x = 3.14 //Number
+    x = []; //array object
+    x = {}; //Object literal
+    x = "blah" / 100;
+    checkType2(x);
+  }
+  function checkType(n) {
+    let msg = `Input is of type:${typeof n}`;
+    let res = document.getElementById("result");
+    if (n === undefined) { // unassigned variables are undefined
+      alert("Undefined is here");
+    }
+    res.innerHTML = msg;
+    let res2 = document.getElementById("result2");
+    if (res2 === null) { //Non-existent objects are null
+      alert("Null is here")
+    }
+  }
+  function checkType2(n) {
+    let msg = `Input is of type:${typeof n}`;
+    let res = document.getElementById("result");
+    if (isNaN(n)) { // unassigned variables are undefined
+      alert("NaN is here");
+    }
+    res.innerHTML = msg;
+  }
+</script>
+<body>
+  <button type="button" onClick="doStuff()"> Click Me</button>
+  <div id="result"></div>
+</body>
+</html>
